@@ -4,7 +4,7 @@ import pandas, nltk, collections
 #Sentimentlexikon einlesen
 #mithilfe des Softwarepakets pandas ist es möglich, Daten, die als Excel-Datei vorliegen, einzulesen.
 #für das Einlesen wird sofort das Französische als verwendete Sprache definiert
-sentiments = pandas.read_excel('SentimentlexikonVollständigErweitert.xlsx', index_col='French')
+sentiments = pandas.read_excel('Sentimentlexikon_French.xlsx', index_col='French')
 
 #mit der folgenden Zeile wird der Tokenizer von der NLTK-Plattform abgerufen
 nltk.tokenize.word_tokenize("Je suis malheureuse à cause de son absence.", language='french')
