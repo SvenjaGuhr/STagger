@@ -1,16 +1,16 @@
 # STagger
-**Simple Sentiment Analysis Tool for French**
-Der Sentimenttagger STagger für Französisch parst kurze Textsegmente zeilenweise und extrahiert aus ihnen die verwendeten Adjektive, zählt sie, annotiert sie bezüglich ihrer Gefühlspolarität und summiert anschließend die Anzahl der Gefühls-getaggten Adjektive auf. 
+**Simple Sentiment Analysis Tool for French**  
+Der Sentimenttagger STagger für Französisch parst kurze Textsegmente zeilenweise und extrahiert aus ihnen die verwendeten Adjektive, zählt sie, annotiert sie bezüglich ihrer Gefühlspolarität (pos, neg, neutral) und summiert anschließend die Anzahl der Sentiment-getaggten Adjektive auf. 
 
 
 ## Installation
-Install using pip install pandas, nltk, collections. 
+Installieren Sie die Pakete pandas, nltk und collections mit pip install.
 
 ## Aufbereitung eigener Texte 
 Um den STagger auf eigene Texte anwenden zu können, müssen die Texte folgendermaßen aufbereitet sein:
 
-Username oder anderer Text, der nicht geparst werden soll;
-Weiterer zu annotierender Fließtext...
+Username (oder anderer Text, der nicht geparst werden soll)  
+Nach einem Zeilenumbruch folgt in den nächsten Zeilen der Fließtext, dessen Adjektive mit Sentimenttags annotiert werden sollen...  
 [Leerzeile als Trennelement zum nächsten Textsegment]
 
 
