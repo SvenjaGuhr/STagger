@@ -9,7 +9,8 @@ Install using pip install pandas, nltk, collections.
 ## Aufbereitung eigener Texte 
 Um den STagger auf eigene Texte anwenden zu können, müssen die Texte folgendermaßen aufbereitet sein:
 
-Username oder anderer Text, der nicht geparst werden soll
-Zu annotierender Fließtext...
+Username oder anderer Text, der nicht geparst werden soll;
+Weiterer zu annotierender Fließtext...
+[Leerzeile als Trennelement zum nächsten Textsegment]
 
 
