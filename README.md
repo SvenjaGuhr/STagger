@@ -16,7 +16,7 @@ Nach einem Zeilenumbruch folgt in den nächsten Zeilen der Fließtext, dessen Ad
 Als Beispieltexte können die anonymisierten Leserkommentare aus dem zip-folder verwendet werden.
 
 ## Publikationen und mehr mit Bezug zum STagger
-Guhr, Svenja. (2019). Computergestützte Analyse von französischen Onlinemedien zur Präsidentschaftswahl 2017. Masterarbeit im Master Romanistik. Georg-August-Universität Göttingen [unpublished].  
+Guhr, Svenja. (2019). Computergestützte Analyse von französischen Onlinemedien zur Präsidentschaftswahl 2017. **Masterarbeit** im Master Romanistik. Georg-August-Universität Göttingen [unpublished].  
 
 Brokering, Annalena, & Guhr, Svenja. (2020). Interdisziplinäres Streitgespräch – Nutzerkommentaranalysen aus ethisch-rechtlicher Perspektive, **Abstract**. Book of Abstracts, DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. 7. Tagung des Verbands "Digital Humanities im deutschsprachigen Raum" (DHd 2020), Paderborn. Zenodo. https://doi.org/10.5281/zenodo.4621919. 
 
