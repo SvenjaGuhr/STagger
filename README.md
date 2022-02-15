@@ -11,6 +11,6 @@ Um den STagger auf eigene Texte anwenden zu können, müssen die Texte folgender
 
 Username (oder anderer Text, der nicht geparst werden soll)  
 Nach einem Zeilenumbruch folgt in den nächsten Zeilen der Fließtext, dessen Adjektive mit Sentimenttags annotiert werden sollen...  
-[Leerzeile als Trennelement zum nächsten Textsegment]  
+[2 Leerzeilen als Trennelement zum nächsten Textsegment]  
 
 Als Beispieltexte können die anonymisierten Leserkommentare aus dem zip-folder verwendet werden.
